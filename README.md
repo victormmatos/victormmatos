@@ -1,3 +1,1 @@
-- 🔭 I’m currently working on Neptune applications
-- 🌱 I’m currently learning SAPUI5 and Fiori
-- 👯 I’m looking to collaborate on open soruce projects 
+💻
